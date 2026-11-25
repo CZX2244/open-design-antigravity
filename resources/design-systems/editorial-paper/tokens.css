@@ -1,0 +1,26 @@
+:root, [data-theme="light"] {
+  --surface: #FBF9F4;
+  --surface-1: #F2EFE6;
+  --surface-card: #FFFFFF;
+  --on-surface: #171614;
+  --on-surface-muted: #66635B;
+  --outline: #D6D0C4;
+  --outline-ink: #171614;
+  --primary: #1F4E5F;
+  --on-primary: #FBF9F4;
+  --signature: #C85A32;
+  --frame: #171614;
+  --on-frame: #FBF9F4;
+  --font-display: Georgia, "Noto Serif SC", serif;
+  --font-sans: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+[data-theme="dark"] {
+  --surface: #1C1B19;
+  --surface-1: #252320;
+  --surface-card: #2D2B27;
+  --on-surface: #F4F1EA;
+  --on-surface-muted: #B0AAA0;
+  --outline: #403D37;
+  --outline-ink: #F4F1EA;
+}

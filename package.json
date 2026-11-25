@@ -1,0 +1,32 @@
+{
+  "name": "open-design-antigravity-plugin",
+  "version": "2.0.0",
+  "private": false,
+  "description": "Native Antigravity plugin bringing Open Design Studio workflows: dual-standard design systems (od-v1 & Claude Design v3), smart PreInvocation injection, Context Pill attachment, single-step od_render, visual DOM picker, workspace sync/lint, and HTML/ZIP/PPTX export.",
+  "type": "module",
+  "license": "MIT",
+  "keywords": [
+    "antigravity",
+    "open-design",
+    "design-system",
+    "mcp-app",
+    "prototyping",
+    "slides",
+    "pptx"
+  ],
+  "scripts": {
+    "sync": "node scripts/sync-upstream.mjs",
+    "build": "node scripts/build-studio.mjs",
+    "test": "node scripts/test-studio.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.12.0",
+    "jszip": "^3.10.1",
+    "pptxgenjs": "^3.12.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@modelcontextprotocol/ext-apps": "^1.0.0",
+    "esbuild": "^0.25.0"
+  }
+}

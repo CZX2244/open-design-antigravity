@@ -1,0 +1,26 @@
+:root, [data-theme="light"] {
+  --surface: #F7F8FA;
+  --surface-1: #ECEEF2;
+  --surface-card: #FFFFFF;
+  --on-surface: #111317;
+  --on-surface-muted: #5A6170;
+  --outline: #D1D6E0;
+  --outline-ink: #111317;
+  --primary: #0F62FE;
+  --on-primary: #FFFFFF;
+  --signature: #FF6B2C;
+  --frame: #111317;
+  --on-frame: #F7F8FA;
+  --font-display: system-ui, -apple-system, "PingFang SC", sans-serif;
+  --font-sans: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+}
+[data-theme="dark"] {
+  --surface: #111317;
+  --surface-1: #181B21;
+  --surface-card: #1E222A;
+  --on-surface: #F2F4F8;
+  --on-surface-muted: #9AA2B2;
+  --outline: #2F3542;
+  --outline-ink: #F2F4F8;
+}

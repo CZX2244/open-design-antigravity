@@ -1,0 +1,11 @@
+{
+  "open-design-active-system": {
+    "PreInvocation": [
+      {
+        "type": "command",
+        "command": "node scripts/pre-invocation-hook.mjs",
+        "timeout": 5
+      }
+    ]
+  }
+}

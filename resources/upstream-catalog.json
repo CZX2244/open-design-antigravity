@@ -1,0 +1,1370 @@
+[
+  {
+    "id": "agentic",
+    "slug": "agentic",
+    "name": "Agentic",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for Agentic, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/agentic"
+  },
+  {
+    "id": "airbnb",
+    "slug": "airbnb",
+    "name": "Airbnb",
+    "category": "E-Commerce & Retail",
+    "description": "Bundled OpenDesign package for Airbnb, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/airbnb"
+  },
+  {
+    "id": "airtable",
+    "slug": "airtable",
+    "name": "Airtable",
+    "category": "Design & Creative",
+    "description": "Bundled OpenDesign package for Airtable, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/airtable"
+  },
+  {
+    "id": "ant",
+    "slug": "ant",
+    "name": "Ant",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Ant, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/ant"
+  },
+  {
+    "id": "apple",
+    "slug": "apple",
+    "name": "Apple",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for Apple, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/apple"
+  },
+  {
+    "id": "application",
+    "slug": "application",
+    "name": "Application",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Application, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/application"
+  },
+  {
+    "id": "arc",
+    "slug": "arc",
+    "name": "Arc Browser",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Arc Browser, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/arc"
+  },
+  {
+    "id": "artistic",
+    "slug": "artistic",
+    "name": "Artistic",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Artistic, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/artistic"
+  },
+  {
+    "id": "atelier-zero",
+    "slug": "atelier-zero",
+    "name": "Atelier Zero",
+    "category": "Editorial · Studio",
+    "description": "Bundled OpenDesign package for Atelier Zero, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/atelier-zero"
+  },
+  {
+    "id": "bento",
+    "slug": "bento",
+    "name": "Bento",
+    "category": "Layout & Structure",
+    "description": "Bundled OpenDesign package for Bento, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/bento"
+  },
+  {
+    "id": "binance",
+    "slug": "binance",
+    "name": "Binance.US",
+    "category": "Fintech & Crypto",
+    "description": "Bundled OpenDesign package for Binance.US, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/binance"
+  },
+  {
+    "id": "bmw",
+    "slug": "bmw",
+    "name": "BMW",
+    "category": "Automotive",
+    "description": "Bundled OpenDesign package for BMW, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/bmw"
+  },
+  {
+    "id": "bmw-m",
+    "slug": "bmw-m",
+    "name": "BMW M",
+    "category": "Automotive",
+    "description": "Bundled OpenDesign package for BMW M, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/bmw-m"
+  },
+  {
+    "id": "bold",
+    "slug": "bold",
+    "name": "Bold",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Bold, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/bold"
+  },
+  {
+    "id": "brutalism",
+    "slug": "brutalism",
+    "name": "Brutalism",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Brutalism, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/brutalism"
+  },
+  {
+    "id": "bugatti",
+    "slug": "bugatti",
+    "name": "Bugatti",
+    "category": "Automotive",
+    "description": "Bundled OpenDesign package for Bugatti, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/bugatti"
+  },
+  {
+    "id": "cafe",
+    "slug": "cafe",
+    "name": "Cafe",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Cafe, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/cafe"
+  },
+  {
+    "id": "cal",
+    "slug": "cal",
+    "name": "Cal.com",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Cal.com, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/cal"
+  },
+  {
+    "id": "canva",
+    "slug": "canva",
+    "name": "Canva",
+    "category": "Design & Creative",
+    "description": "Bundled OpenDesign package for Canva, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/canva"
+  },
+  {
+    "id": "cisco",
+    "slug": "cisco",
+    "name": "Cisco",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for Cisco, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/cisco"
+  },
+  {
+    "id": "claude",
+    "slug": "claude",
+    "name": "Claude (Anthropic)",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Claude (Anthropic), derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/claude"
+  },
+  {
+    "id": "clay",
+    "slug": "clay",
+    "name": "Clay",
+    "category": "Design & Creative",
+    "description": "Bundled OpenDesign package for Clay, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/clay"
+  },
+  {
+    "id": "claymorphism",
+    "slug": "claymorphism",
+    "name": "Claymorphism",
+    "category": "Morphism & Effects",
+    "description": "Bundled OpenDesign package for Claymorphism, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/claymorphism"
+  },
+  {
+    "id": "clean",
+    "slug": "clean",
+    "name": "Clean",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Clean, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/clean"
+  },
+  {
+    "id": "clickhouse",
+    "slug": "clickhouse",
+    "name": "ClickHouse",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for ClickHouse, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/clickhouse"
+  },
+  {
+    "id": "cloudflare-kumo",
+    "slug": "cloudflare-kumo",
+    "name": "Cloudflare Kumo UI",
+    "category": "Developer Tools",
+    "description": "Cloudflare's component system for modern web apps, with semantic light and dark tokens, compact typography, layered neutral surfaces, accessible controls, and chart-ready color guidance.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/cloudflare-kumo"
+  },
+  {
+    "id": "cohere",
+    "slug": "cohere",
+    "name": "Cohere",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Cohere, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/cohere"
+  },
+  {
+    "id": "coinbase",
+    "slug": "coinbase",
+    "name": "Coinbase",
+    "category": "Fintech & Crypto",
+    "description": "Bundled OpenDesign package for Coinbase, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/coinbase"
+  },
+  {
+    "id": "colorful",
+    "slug": "colorful",
+    "name": "Colorful",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Colorful, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/colorful"
+  },
+  {
+    "id": "composio",
+    "slug": "composio",
+    "name": "Composio",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for Composio, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/composio"
+  },
+  {
+    "id": "contemporary",
+    "slug": "contemporary",
+    "name": "Contemporary",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Contemporary, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/contemporary"
+  },
+  {
+    "id": "corporate",
+    "slug": "corporate",
+    "name": "Corporate",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Corporate, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/corporate"
+  },
+  {
+    "id": "cosmic",
+    "slug": "cosmic",
+    "name": "Cosmic",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Cosmic, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/cosmic"
+  },
+  {
+    "id": "creative",
+    "slug": "creative",
+    "name": "Creative",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Creative, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/creative"
+  },
+  {
+    "id": "cursor",
+    "slug": "cursor",
+    "name": "Cursor",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Cursor, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/cursor"
+  },
+  {
+    "id": "dashboard",
+    "slug": "dashboard",
+    "name": "Dashboard",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Dashboard, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/dashboard"
+  },
+  {
+    "id": "discord",
+    "slug": "discord",
+    "name": "Discord",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Discord, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/discord"
+  },
+  {
+    "id": "dithered",
+    "slug": "dithered",
+    "name": "Dithered",
+    "category": "Retro & Nostalgic",
+    "description": "Bundled OpenDesign package for Dithered, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/dithered"
+  },
+  {
+    "id": "doodle",
+    "slug": "doodle",
+    "name": "Doodle",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Doodle, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/doodle"
+  },
+  {
+    "id": "dramatic",
+    "slug": "dramatic",
+    "name": "Dramatic",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Dramatic, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/dramatic"
+  },
+  {
+    "id": "duolingo",
+    "slug": "duolingo",
+    "name": "Duolingo",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Duolingo, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/duolingo"
+  },
+  {
+    "id": "editorial",
+    "slug": "editorial",
+    "name": "Editorial",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Editorial, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/editorial"
+  },
+  {
+    "id": "elegant",
+    "slug": "elegant",
+    "name": "Elegant",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Elegant, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/elegant"
+  },
+  {
+    "id": "elevenlabs",
+    "slug": "elevenlabs",
+    "name": "ElevenLabs",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for ElevenLabs, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/elevenlabs"
+  },
+  {
+    "id": "energetic",
+    "slug": "energetic",
+    "name": "Energetic",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Energetic, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/energetic"
+  },
+  {
+    "id": "enterprise",
+    "slug": "enterprise",
+    "name": "Enterprise",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Enterprise, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/enterprise"
+  },
+  {
+    "id": "expo",
+    "slug": "expo",
+    "name": "Expo",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Expo, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/expo"
+  },
+  {
+    "id": "expressive",
+    "slug": "expressive",
+    "name": "Expressive",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Expressive, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/expressive"
+  },
+  {
+    "id": "fantasy",
+    "slug": "fantasy",
+    "name": "Fantasy",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Fantasy, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/fantasy"
+  },
+  {
+    "id": "ferrari",
+    "slug": "ferrari",
+    "name": "Ferrari",
+    "category": "Automotive",
+    "description": "Bundled OpenDesign package for Ferrari, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/ferrari"
+  },
+  {
+    "id": "figma",
+    "slug": "figma",
+    "name": "Figma",
+    "category": "Design & Creative",
+    "description": "Bundled OpenDesign package for Figma, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/figma"
+  },
+  {
+    "id": "flat",
+    "slug": "flat",
+    "name": "Flat",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Flat, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/flat"
+  },
+  {
+    "id": "framer",
+    "slug": "framer",
+    "name": "Framer",
+    "category": "Design & Creative",
+    "description": "Bundled OpenDesign package for Framer, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/framer"
+  },
+  {
+    "id": "friendly",
+    "slug": "friendly",
+    "name": "Friendly",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Friendly, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/friendly"
+  },
+  {
+    "id": "futuristic",
+    "slug": "futuristic",
+    "name": "Futuristic",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for Futuristic, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/futuristic"
+  },
+  {
+    "id": "github",
+    "slug": "github",
+    "name": "GitHub",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for GitHub, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/github"
+  },
+  {
+    "id": "glassmorphism",
+    "slug": "glassmorphism",
+    "name": "Glassmorphism",
+    "category": "Morphism & Effects",
+    "description": "Bundled OpenDesign package for Glassmorphism, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/glassmorphism"
+  },
+  {
+    "id": "gradient",
+    "slug": "gradient",
+    "name": "Gradient",
+    "category": "Morphism & Effects",
+    "description": "Bundled OpenDesign package for Gradient, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/gradient"
+  },
+  {
+    "id": "hashicorp",
+    "slug": "hashicorp",
+    "name": "HashiCorp",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for HashiCorp, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/hashicorp"
+  },
+  {
+    "id": "hud",
+    "slug": "hud",
+    "name": "HUD Design System",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for HUD Design System, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/hud"
+  },
+  {
+    "id": "huggingface",
+    "slug": "huggingface",
+    "name": "Hugging Face",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Hugging Face, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/huggingface"
+  },
+  {
+    "id": "ibm",
+    "slug": "ibm",
+    "name": "IBM",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for IBM, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/ibm"
+  },
+  {
+    "id": "intercom",
+    "slug": "intercom",
+    "name": "Intercom",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Intercom, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/intercom"
+  },
+  {
+    "id": "kami",
+    "slug": "kami",
+    "name": "kami (紙 / 纸)",
+    "category": "Editorial & Print",
+    "description": "Bundled OpenDesign package for kami (紙 / 纸), derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/kami"
+  },
+  {
+    "id": "kraken",
+    "slug": "kraken",
+    "name": "Kraken",
+    "category": "Fintech & Crypto",
+    "description": "Bundled OpenDesign package for Kraken, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/kraken"
+  },
+  {
+    "id": "lamborghini",
+    "slug": "lamborghini",
+    "name": "Lamborghini",
+    "category": "Automotive",
+    "description": "Bundled OpenDesign package for Lamborghini, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/lamborghini"
+  },
+  {
+    "id": "levels",
+    "slug": "levels",
+    "name": "Levels",
+    "category": "Layout & Structure",
+    "description": "Bundled OpenDesign package for Levels, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/levels"
+  },
+  {
+    "id": "linear-app",
+    "slug": "linear-app",
+    "name": "Linear",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Linear, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/linear-app"
+  },
+  {
+    "id": "lingo",
+    "slug": "lingo",
+    "name": "Lingo",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Lingo, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/lingo"
+  },
+  {
+    "id": "loom",
+    "slug": "loom",
+    "name": "Loom Design System",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for Loom Design System, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/loom"
+  },
+  {
+    "id": "lovable",
+    "slug": "lovable",
+    "name": "Lovable",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Lovable, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/lovable"
+  },
+  {
+    "id": "luxury",
+    "slug": "luxury",
+    "name": "Luxury",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Luxury, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/luxury"
+  },
+  {
+    "id": "mastercard",
+    "slug": "mastercard",
+    "name": "Mastercard",
+    "category": "Fintech & Crypto",
+    "description": "Bundled OpenDesign package for Mastercard, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/mastercard"
+  },
+  {
+    "id": "material",
+    "slug": "material",
+    "name": "Material",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Material, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/material"
+  },
+  {
+    "id": "meta",
+    "slug": "meta",
+    "name": "Meta (Store)",
+    "category": "E-Commerce & Retail",
+    "description": "Bundled OpenDesign package for Meta (Store), derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/meta"
+  },
+  {
+    "id": "minimal",
+    "slug": "minimal",
+    "name": "Minimal",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Minimal, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/minimal"
+  },
+  {
+    "id": "minimax",
+    "slug": "minimax",
+    "name": "MiniMax",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for MiniMax, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/minimax"
+  },
+  {
+    "id": "mintlify",
+    "slug": "mintlify",
+    "name": "Mintlify",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Mintlify, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/mintlify"
+  },
+  {
+    "id": "miro",
+    "slug": "miro",
+    "name": "Miro",
+    "category": "Design & Creative",
+    "description": "Bundled OpenDesign package for Miro, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/miro"
+  },
+  {
+    "id": "mission-control",
+    "slug": "mission-control",
+    "name": "Mission Control Design System",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Mission Control Design System, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/mission-control"
+  },
+  {
+    "id": "mistral-ai",
+    "slug": "mistral-ai",
+    "name": "Mistral AI",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Mistral AI, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/mistral-ai"
+  },
+  {
+    "id": "modern",
+    "slug": "modern",
+    "name": "Modern",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Modern, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/modern"
+  },
+  {
+    "id": "mongodb",
+    "slug": "mongodb",
+    "name": "MongoDB",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for MongoDB, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/mongodb"
+  },
+  {
+    "id": "mono",
+    "slug": "mono",
+    "name": "Mono",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Mono, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/mono"
+  },
+  {
+    "id": "neobrutalism",
+    "slug": "neobrutalism",
+    "name": "Neobrutalism",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Neobrutalism, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/neobrutalism"
+  },
+  {
+    "id": "neon",
+    "slug": "neon",
+    "name": "Neon",
+    "category": "Morphism & Effects",
+    "description": "Bundled OpenDesign package for Neon, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/neon"
+  },
+  {
+    "id": "neumorphism",
+    "slug": "neumorphism",
+    "name": "Neumorphism",
+    "category": "Morphism & Effects",
+    "description": "Bundled OpenDesign package for Neumorphism, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/neumorphism"
+  },
+  {
+    "id": "default",
+    "slug": "default",
+    "name": "Neutral Modern",
+    "category": "Starter",
+    "description": "Bundled OpenDesign package for Neutral Modern, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/default"
+  },
+  {
+    "id": "nike",
+    "slug": "nike",
+    "name": "Nike",
+    "category": "E-Commerce & Retail",
+    "description": "Bundled OpenDesign package for Nike, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/nike"
+  },
+  {
+    "id": "notion",
+    "slug": "notion",
+    "name": "Notion",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Notion, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/notion"
+  },
+  {
+    "id": "nvidia",
+    "slug": "nvidia",
+    "name": "NVIDIA",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for NVIDIA, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/nvidia"
+  },
+  {
+    "id": "ollama",
+    "slug": "ollama",
+    "name": "Ollama",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Ollama, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/ollama"
+  },
+  {
+    "id": "openai",
+    "slug": "openai",
+    "name": "OpenAI",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for OpenAI, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/openai"
+  },
+  {
+    "id": "opencode-ai",
+    "slug": "opencode-ai",
+    "name": "OpenCode",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for OpenCode, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/opencode-ai"
+  },
+  {
+    "id": "pacman",
+    "slug": "pacman",
+    "name": "Pacman",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for Pacman, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/pacman"
+  },
+  {
+    "id": "paper",
+    "slug": "paper",
+    "name": "Paper",
+    "category": "Retro & Nostalgic",
+    "description": "Bundled OpenDesign package for Paper, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/paper"
+  },
+  {
+    "id": "perplexity",
+    "slug": "perplexity",
+    "name": "Perplexity AI",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Perplexity AI, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/perplexity"
+  },
+  {
+    "id": "perspective",
+    "slug": "perspective",
+    "name": "Perspective",
+    "category": "Layout & Structure",
+    "description": "Bundled OpenDesign package for Perspective, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/perspective"
+  },
+  {
+    "id": "pinterest",
+    "slug": "pinterest",
+    "name": "Pinterest",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for Pinterest, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/pinterest"
+  },
+  {
+    "id": "playstation",
+    "slug": "playstation",
+    "name": "PlayStation",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for PlayStation, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/playstation"
+  },
+  {
+    "id": "posthog",
+    "slug": "posthog",
+    "name": "PostHog",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for PostHog, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/posthog"
+  },
+  {
+    "id": "premium",
+    "slug": "premium",
+    "name": "Premium",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Premium, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/premium"
+  },
+  {
+    "id": "professional",
+    "slug": "professional",
+    "name": "Professional",
+    "category": "Professional & Corporate",
+    "description": "Bundled OpenDesign package for Professional, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/professional"
+  },
+  {
+    "id": "publication",
+    "slug": "publication",
+    "name": "Publication",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Publication, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/publication"
+  },
+  {
+    "id": "raycast",
+    "slug": "raycast",
+    "name": "Raycast",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Raycast, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/raycast"
+  },
+  {
+    "id": "refined",
+    "slug": "refined",
+    "name": "Refined",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Refined, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/refined"
+  },
+  {
+    "id": "renault",
+    "slug": "renault",
+    "name": "Renault",
+    "category": "Automotive",
+    "description": "Bundled OpenDesign package for Renault, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/renault"
+  },
+  {
+    "id": "replicate",
+    "slug": "replicate",
+    "name": "Replicate",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Replicate, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/replicate"
+  },
+  {
+    "id": "resend",
+    "slug": "resend",
+    "name": "Resend",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Resend, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/resend"
+  },
+  {
+    "id": "retro",
+    "slug": "retro",
+    "name": "Retro",
+    "category": "Retro & Nostalgic",
+    "description": "Bundled OpenDesign package for Retro, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/retro"
+  },
+  {
+    "id": "revolut",
+    "slug": "revolut",
+    "name": "Revolut",
+    "category": "Fintech & Crypto",
+    "description": "Bundled OpenDesign package for Revolut, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/revolut"
+  },
+  {
+    "id": "runwayml",
+    "slug": "runwayml",
+    "name": "Runway",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Runway, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/runwayml"
+  },
+  {
+    "id": "sanity",
+    "slug": "sanity",
+    "name": "Sanity",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for Sanity, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/sanity"
+  },
+  {
+    "id": "sentry",
+    "slug": "sentry",
+    "name": "Sentry",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for Sentry, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/sentry"
+  },
+  {
+    "id": "shadcn",
+    "slug": "shadcn",
+    "name": "Shadcn",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Shadcn, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/shadcn"
+  },
+  {
+    "id": "shopify",
+    "slug": "shopify",
+    "name": "Shopify",
+    "category": "E-Commerce & Retail",
+    "description": "Bundled OpenDesign package for Shopify, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/shopify"
+  },
+  {
+    "id": "simple",
+    "slug": "simple",
+    "name": "Simple",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Simple, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/simple"
+  },
+  {
+    "id": "skeumorphism",
+    "slug": "skeumorphism",
+    "name": "Skeumorphism",
+    "category": "Morphism & Effects",
+    "description": "Bundled OpenDesign package for Skeumorphism, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/skeumorphism"
+  },
+  {
+    "id": "slack",
+    "slug": "slack",
+    "name": "Slack",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Slack, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/slack"
+  },
+  {
+    "id": "sleek",
+    "slug": "sleek",
+    "name": "Sleek",
+    "category": "Modern & Minimal",
+    "description": "Bundled OpenDesign package for Sleek, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/sleek"
+  },
+  {
+    "id": "spacex",
+    "slug": "spacex",
+    "name": "SpaceX",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for SpaceX, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/spacex"
+  },
+  {
+    "id": "spacious",
+    "slug": "spacious",
+    "name": "Spacious",
+    "category": "Layout & Structure",
+    "description": "Bundled OpenDesign package for Spacious, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/spacious"
+  },
+  {
+    "id": "spotify",
+    "slug": "spotify",
+    "name": "Spotify",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for Spotify, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/spotify"
+  },
+  {
+    "id": "starbucks",
+    "slug": "starbucks",
+    "name": "Starbucks",
+    "category": "E-Commerce & Retail",
+    "description": "Bundled OpenDesign package for Starbucks, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/starbucks"
+  },
+  {
+    "id": "storytelling",
+    "slug": "storytelling",
+    "name": "Storytelling",
+    "category": "Creative & Artistic",
+    "description": "Bundled OpenDesign package for Storytelling, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/storytelling"
+  },
+  {
+    "id": "stripe",
+    "slug": "stripe",
+    "name": "Stripe",
+    "category": "Fintech & Crypto",
+    "description": "Bundled OpenDesign package for Stripe, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/stripe"
+  },
+  {
+    "id": "supabase",
+    "slug": "supabase",
+    "name": "Supabase",
+    "category": "Backend & Data",
+    "description": "Bundled OpenDesign package for Supabase, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/supabase"
+  },
+  {
+    "id": "superhuman",
+    "slug": "superhuman",
+    "name": "Superhuman",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Superhuman, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/superhuman"
+  },
+  {
+    "id": "tesla",
+    "slug": "tesla",
+    "name": "Tesla",
+    "category": "Automotive",
+    "description": "Bundled OpenDesign package for Tesla, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/tesla"
+  },
+  {
+    "id": "tetris",
+    "slug": "tetris",
+    "name": "Tetris",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for Tetris, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/tetris"
+  },
+  {
+    "id": "theverge",
+    "slug": "theverge",
+    "name": "The Verge",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for The Verge, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/theverge"
+  },
+  {
+    "id": "together-ai",
+    "slug": "together-ai",
+    "name": "Together AI",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for Together AI, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/together-ai"
+  },
+  {
+    "id": "tom-modern",
+    "slug": "tom-modern",
+    "name": "Tom Modern Design",
+    "category": "Starter",
+    "description": "Editorial-technical design system. Neutral canvas, single vermillion accent, sharp corners, Geist typography, hard shadows, structured composition.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/tom-modern"
+  },
+  {
+    "id": "totality-festival",
+    "slug": "totality-festival",
+    "name": "Totality Festival",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for Totality Festival, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/totality-festival"
+  },
+  {
+    "id": "trading-terminal",
+    "slug": "trading-terminal",
+    "name": "Trading Terminal Design System",
+    "category": "Themed & Unique",
+    "description": "Bundled OpenDesign package for Trading Terminal Design System, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/trading-terminal"
+  },
+  {
+    "id": "uber",
+    "slug": "uber",
+    "name": "Uber",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for Uber, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/uber"
+  },
+  {
+    "id": "urdu",
+    "slug": "urdu",
+    "name": "Urdu Modern (Indus Script System)",
+    "category": "Editorial / Personal / Publication",
+    "description": "Bundled OpenDesign package for Urdu Modern (Indus Script System), derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/urdu"
+  },
+  {
+    "id": "vercel",
+    "slug": "vercel",
+    "name": "Vercel",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Vercel, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/vercel"
+  },
+  {
+    "id": "vibrant",
+    "slug": "vibrant",
+    "name": "Vibrant",
+    "category": "Bold & Expressive",
+    "description": "Bundled OpenDesign package for Vibrant, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/vibrant"
+  },
+  {
+    "id": "vintage",
+    "slug": "vintage",
+    "name": "Vintage",
+    "category": "Retro & Nostalgic",
+    "description": "Bundled OpenDesign package for Vintage, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/vintage"
+  },
+  {
+    "id": "vodafone",
+    "slug": "vodafone",
+    "name": "Vodafone",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for Vodafone, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/vodafone"
+  },
+  {
+    "id": "voltagent",
+    "slug": "voltagent",
+    "name": "VoltAgent",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for VoltAgent, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/voltagent"
+  },
+  {
+    "id": "warm-editorial",
+    "slug": "warm-editorial",
+    "name": "Warm Editorial",
+    "category": "Starter",
+    "description": "Bundled OpenDesign package for Warm Editorial, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/warm-editorial"
+  },
+  {
+    "id": "warp",
+    "slug": "warp",
+    "name": "Warp",
+    "category": "Developer Tools",
+    "description": "Bundled OpenDesign package for Warp, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/warp"
+  },
+  {
+    "id": "webex",
+    "slug": "webex",
+    "name": "Webex",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Webex, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/webex"
+  },
+  {
+    "id": "webflow",
+    "slug": "webflow",
+    "name": "Webflow",
+    "category": "Design & Creative",
+    "description": "Bundled OpenDesign package for Webflow, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/webflow"
+  },
+  {
+    "id": "wechat",
+    "slug": "wechat",
+    "name": "WeChat Design System",
+    "category": "Social & Messaging",
+    "description": "Bundled OpenDesign package for WeChat Design System, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/wechat"
+  },
+  {
+    "id": "wired",
+    "slug": "wired",
+    "name": "WIRED",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for WIRED, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/wired"
+  },
+  {
+    "id": "wise",
+    "slug": "wise",
+    "name": "Wise",
+    "category": "Fintech & Crypto",
+    "description": "Bundled OpenDesign package for Wise, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/wise"
+  },
+  {
+    "id": "x-ai",
+    "slug": "x-ai",
+    "name": "xAI",
+    "category": "AI & LLM",
+    "description": "Bundled OpenDesign package for xAI, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/x-ai"
+  },
+  {
+    "id": "xiaohongshu",
+    "slug": "xiaohongshu",
+    "name": "Xiaohongshu",
+    "category": "Media & Consumer",
+    "description": "Bundled OpenDesign package for Xiaohongshu, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/xiaohongshu"
+  },
+  {
+    "id": "zapier",
+    "slug": "zapier",
+    "name": "Zapier",
+    "category": "Productivity & SaaS",
+    "description": "Bundled OpenDesign package for Zapier, derived from curated DESIGN.md, tokens.css, and components.html fixtures.",
+    "schemaVersion": "od-design-system-project/v1",
+    "path": "design-systems/zapier"
+  }
+]

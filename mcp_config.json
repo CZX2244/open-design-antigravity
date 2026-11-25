@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "studio": {
+      "command": "node",
+      "args": ["${PLUGIN_ROOT}/bin/server.mjs"],
+      "env": {
+        "OPEN_DESIGN_DATA_DIR": "${PLUGIN_DATA}"
+      }
+    }
+  }
+}

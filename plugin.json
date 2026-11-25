@@ -1,0 +1,12 @@
+{
+  "name": "open-design",
+  "displayName": "Open Design Studio",
+  "version": "2.0.0",
+  "description": "Antigravity 原生深度融合的设计系统引擎：支持单步 od_render、预编译组件 API 精准查询、全局/项目级激活系统与上下文胶囊挂载、画布 DOM 点选批注，以及 Workspace 双向同步与体检。",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "使用当前激活的设计系统制作一个高完成度交互原型并实时预览",
+    "打开 Open Design Studio 工作台，切换或深入检视已挂载的设计系统与组件 API",
+    "在 Open Design Studio 中制作一套 6 页 16:9 演示文稿并导出原生可编辑 PPTX"
+  ]
+}

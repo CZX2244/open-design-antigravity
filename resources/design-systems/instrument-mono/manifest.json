@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "od-design-system-project/v1",
+  "id": "instrument-mono",
+  "name": "Instrument Mono",
+  "category": "Developer & Telemetry",
+  "description": "Precision technical interface built on strict hairline grids and tabular monospace numerals.",
+  "source": {
+    "type": "bundled",
+    "origin": "Open Design Studio fallback starter"
+  },
+  "files": {
+    "design": "DESIGN.md",
+    "tokens": "tokens.css"
+  }
+}

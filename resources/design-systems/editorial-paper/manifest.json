@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "od-design-system-project/v1",
+  "id": "editorial-paper",
+  "name": "Editorial Paper",
+  "category": "Editorial & Publishing",
+  "description": "Warm archival paper with crisp serif headlines and structured tabular metadata.",
+  "source": {
+    "type": "bundled",
+    "origin": "Open Design Studio fallback starter"
+  },
+  "files": {
+    "design": "DESIGN.md",
+    "tokens": "tokens.css"
+  }
+}
